@@ -16,5 +16,6 @@ ii. Veri türleri ve ilgili temel işlemler.
 iii. Koşullar ve döngüler. Fonksiyon yazımı
 
  2. GÜN (2 Temmuz 2021)
+
 iv. Kütüphane Çağırma ve kullanımı: Numpy örneği
 v. Veri bilimi alanında kullanılan diğer temel kütüphaneler "
